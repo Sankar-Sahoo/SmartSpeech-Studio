@@ -22,7 +22,7 @@ An AI-Powered Text-to-Speech Desktop Application built using Python and Tkinter.
 
 ## 🖥️ Application Preview
 
-![App Screenshot](screenshots/app.png)
+![App Screenshot](app.png)
 
 ---
 
